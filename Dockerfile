@@ -9,6 +9,7 @@ RUN \
     apk add \
     git \
     gcc \
+    ffmpeg \
     musl-dev \
     libjpeg-turbo-dev \
     zlib-dev && \
